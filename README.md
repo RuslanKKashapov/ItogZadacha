@@ -57,4 +57,3 @@ string[] GetArray()
     return 
     Console.ReadLine().Split(" ");
 }
-
